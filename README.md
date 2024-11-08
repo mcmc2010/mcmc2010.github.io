@@ -12,3 +12,5 @@ AI社区，主要发现有趣的语言模型，图像模型（不包括视频音
 ### Update Notes:
 #### 2024-01-15
 Add a Chinese dataset based on llama-2-chat-7b.
+#### 2024-11-1
+A new Linux kernel has been added. [linux-kernel-6.11.5](https://github.com/mcmc2010/linux-kernel)
