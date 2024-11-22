@@ -1,16 +1,39 @@
 # mcmcx open community
 
-## English:
-AI community focuses on discovering interesting language and image models (excluding video and audio models, not because of disinterest, but due to other reasons).
-Game community primarily develops simple and fun games. If making money from it is possible, it would be considered a special stroke of luck; if not, it is also a normal part of life.
+## Game Development: AMFramework
 
-## Chinese:
-AI社区，主要发现有趣的语言模型，图像模型（不包括视频音频模型，不是为什么，而是没有兴趣）。
-游戏社区，主要开发一些简单好玩的游戏，倘若能赚钱那是一种特别的运气，倘若不能赚钱也是一种人生常态。
+### AMFramework 2.00 - dev1
 
+#### Update Notes:
+- Add content related to the host, and content already added includes information about the character controller.
+  
+### AMFramework 1.01
+The framework is built in a modular fashion, with interconnections that facilitate developers to reconstruct any modular feature. The interface uses MVVM for binding, which reduces the need for boilerplate code.
 
+#### Game Features
+- **Sound Management**
+- **Localization Management**
+- **Data Management**
+- **Table Configuration Files**
+- **Broadcast Event System**
+
+#### Commercial Features
+- **IronSource Ads**
+- **Google AdMob Ads**
+- **Applovin Ads**
+
+#### Update Notes:
+- Development case based on the framework, providing an Apple test [link](). This preview version requires you to install TestFlight on your device. Please download it according to the link provided.[link](https://beta.itunes.apple.com)
+- Development case based on the framework, providing an Android test App. Please wait ...
+
+  
+## System Development Linux Kernel
+### Update Notes:
+#### 2024-11-1
+A new Linux kernel has been added. [linux-kernel-6.11.5](https://github.com/mcmc2010/linux-kernel)
+
+## AI Large Models And Generate
 ### Update Notes:
 #### 2024-01-15
 Add a Chinese dataset based on llama-2-chat-7b.
-#### 2024-11-1
-A new Linux kernel has been added. [linux-kernel-6.11.5](https://github.com/mcmc2010/linux-kernel)
+
