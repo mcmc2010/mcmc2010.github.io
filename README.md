@@ -1,8 +1,6 @@
 # mcmcx open community
 
 
-**[Privacy Policy](/PrivacyPolicy.html)** **[Service Terms](/ServiceTerms.html)**
-
 ## Game Development: AMFramework
 
 ### AMFramework 2.00 - dev1
@@ -39,4 +37,9 @@ A new Linux kernel has been added. [linux-kernel-6.11.5](https://github.com/mcmc
 ### Update Notes:
 #### 2024-01-15
 Add a Chinese dataset based on llama-2-chat-7b.
+
+
+## About
+**[Privacy Policy](/PrivacyPolicy.html)**
+**[Service Terms](/ServiceTerms.html)**
 
