@@ -1,5 +1,8 @@
 # mcmcx open community
 
+
+**[Privacy Policy](/PrivacyPolicy.html)**
+
 ## Game Development: AMFramework
 
 ### AMFramework 2.00 - dev1
@@ -27,7 +30,7 @@ The framework is built in a modular fashion, with interconnections that facilita
 - Development case based on the framework, providing an Android test App. Please wait ...
 
   
-## System Development Linux Kernel
+## System Development: Linux Kernel
 ### Update Notes:
 #### 2024-11-1
 A new Linux kernel has been added. [linux-kernel-6.11.5](https://github.com/mcmc2010/linux-kernel)
