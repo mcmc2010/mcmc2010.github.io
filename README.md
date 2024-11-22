@@ -1,7 +1,7 @@
 # mcmcx open community
 
 
-**[Privacy Policy](/PrivacyPolicy.html)**
+**[Privacy Policy](/PrivacyPolicy.html)** **[Service Terms](/ServiceTerms.html)**
 
 ## Game Development: AMFramework
 
