@@ -24,7 +24,7 @@ The framework is built in a modular fashion, with interconnections that facilita
 - **Applovin Ads**
 
 #### Update Notes:
-- Development case based on the framework, providing an Apple test [link](). This preview version requires you to install TestFlight on your device. Please download it according to the link provided.[link](https://beta.itunes.apple.com)
+- Development case based on the framework, providing an Apple test [link](https://testflight.apple.com/join/jY7wiZ5R). This preview version requires you to install TestFlight on your device. Please download it according to the link provided.[link](https://beta.itunes.apple.com)
 - Development case based on the framework, providing an Android test App. Please wait ...
 
   
