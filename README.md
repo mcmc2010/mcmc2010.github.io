@@ -1,5 +1,12 @@
 # mcmcx open community
 
+## Game Project:
+This project was developed using the AMFramework framework. Currently, only the iOS internal testing link is available. The Android version will be added in a subsequent update.
+- Solitaire Game Classic Plus
+Apple Testflight [Solitaire Game Classic Plus](https://testflight.apple.com/join/jY7wiZ5R)
+- Robot Boxes
+Apple Testflight [Robot Boxes](https://testflight.apple.com/join/YMzA6V7F)
+
 
 ## Game Development: AMFramework
 
@@ -32,11 +39,6 @@ The framework is built in a modular fashion, with interconnections that facilita
 ### Update Notes:
 #### 2024-11-1
 A new Linux kernel has been added. [linux-kernel-6.11.5](https://github.com/mcmc2010/linux-kernel)
-
-## AI Large Models And Generate
-### Update Notes:
-#### 2024-01-15
-Add a Chinese dataset based on llama-2-chat-7b.
 
 
 ## About
